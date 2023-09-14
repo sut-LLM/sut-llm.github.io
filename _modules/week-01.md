@@ -1,18 +1,25 @@
 ---
-title: Introduction to Large Language Models
+title: "Language models: Architectures and training"
 ---
 
-Sep 26
-: [Introduction to Course](#)
-  : [1.1](#)
+Week 1
 
-Oct 1
-: **Section**{: .label .label-purple }[Introduction to Large Language Models](#)
-  : [Solution](#)
+Mehr 4
+: **Lecture 1**{: .label .label-purple }Introduction to foundation models
+  : Dr. Soleymani
 
-Oct 8
-: [Pre-training and Fine-tuning](#)
-  : [1.2](#), [1.3](#)
+Week 2
 
-Oct 12
-: **HW 1 due**{: .label .label-red }
+Mehr 9
+: **Lecture 2**{: .label .label-purple } Transformers: Encoder model
+  : Dr. Asgari
+
+Week 3
+
+Mehr 16
+: **Lecture 3**{: .label .label-purple } Transformers: Decoder model
+  : Dr. Asgari
+
+Mehr 18
+: **Lecture 4**{: .label .label-purple } Transformers: Encoder-decoder model
+  : Dr. Asgari
