@@ -1,7 +1,7 @@
 ---
 name: Mohamadreza Fereydooni
 role: Head Teaching Assistant
-email: fereydooni@sharif.ir
+email: mrezafereydooni@gmail.com
 website: https://www.linkedin.com/in/mohamadreza-fereydooni/
 photo: fereydooni.jpg
 lab: MLL
