@@ -1,9 +1,7 @@
-<h2 class="fs-4" id="{{ page.title | slugify }}">
+<h2 class="fs-4" id="{{ page.title | slugify }}">{{ page.title }}</h2>
+<div class="module">
   {{- if page.week -}}
   <strong class="label label-green">Week {{ page.week }}</strong>
   {{- endif -}}
-  {{ page.title }}
-</h2>
-<div class="module">
   {{ content }}
 </div>
