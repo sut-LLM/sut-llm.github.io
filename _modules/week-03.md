@@ -1,5 +1,6 @@
 ---
-title: **Week 3**{: .label .label-purple } Language models: Architectures and training II
+week: 3
+title: "Language models: Architectures and training II"
 ---
 
 Mehr 16
