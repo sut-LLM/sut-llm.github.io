@@ -4305,7 +4305,7 @@
         this._isTransitioning = true;
         this._scrollBar.hide();
         document.body.classList.add(CLASS_NAME_OPEN);
-        this._adjustDialog();
+        // this._adjustDialog();
         this._backdrop.show(() => this._showElement(relatedTarget));
       }
       hide() {
@@ -4413,7 +4413,7 @@
         this._isTransitioning = false;
         this._backdrop.hide(() => {
           document.body.classList.remove(CLASS_NAME_OPEN);
-          this._resetAdjustments();
+          // this._resetAdjustments();
           this._scrollBar.reset();
           EventHandler.trigger(this._element, EVENT_HIDDEN$4);
         });
