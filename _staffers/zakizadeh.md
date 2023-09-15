@@ -2,6 +2,7 @@
 name: Mahdi Zakizadeh
 role: Teaching Assistant
 email: mahdizakizadeh.me@gmail.com
-website: https://www.linkedin.com/in/mahdizakizadeh/
+linkedin: https://www.linkedin.com/in/mahdizakizadeh/
+github: https://github.com/mzakizadeh/
 photo: zakizadeh.jpg
 ---

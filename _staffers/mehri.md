@@ -2,6 +2,7 @@
 name: Faridoun Mehri
 role: Teaching Assistant
 email: feraidoonmehri@gmail.com
-website: https://www.linkedin.com/in/feraidoon-mehri/
+linkedin: https://www.linkedin.com/in/feraidoon-mehri/
+github: https://github.com/NightMachinery/
 photo: mehri.jpg
 ---
