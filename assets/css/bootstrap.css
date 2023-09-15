@@ -217,9 +217,9 @@ hr {
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   margin-top: 0;
   margin-bottom: 0.5rem;
-  font-weight: 500;
+  /* font-weight: 500;
   line-height: 1.2;
-  color: var(--bs-heading-color);
+  color: var(--bs-heading-color); */
 }
 
 h1, .h1 {
@@ -350,7 +350,7 @@ sup {
 
 a {
   color: rgba(var(--bs-link-color-rgb), var(--bs-link-opacity, 1));
-  text-decoration: underline;
+  /* text-decoration: underline; */
 }
 a:hover {
   --bs-link-color-rgb: var(--bs-link-hover-color-rgb);
