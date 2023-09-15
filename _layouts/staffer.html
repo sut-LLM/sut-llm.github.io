@@ -38,10 +38,10 @@
       <div class="modal-body">
         <div class="container">
           <div class="row">
-            <div class="col-md-4">
+            <div class="col-lg-4">
               <img class="staffer-image" src="{{ site.baseurl }}{{ page.subpath }}{{ page.photo }}" alt="" width="{{ page.width }}" height="{{ page.height }}">
             </div>
-            <div class="col-md-8">
+            <div class="col-lg-8">
               {%- if page.email -%}
               <p><a href="mailto:{{ page.email }}"><i class="bi bi-envelope"></i>{{ page.email }}</a></p>
               {%- endif -%}
@@ -53,6 +53,9 @@
               {%- if page.degree and page.degree != "BSc" -%}
               <p><b>Major:</b> {{ page.major }}</p>
               <p><b>Field:</b> {{ page.field }}</p>
+              {%- endif -%}
+              {%- if page.website -%}
+              <p><a href="{{ page.website }}"><i class="bi bi-link-45deg"></i>Website</a></p>
               {%- endif -%}
               {%- if page.github -%}
               <p><a href="{{ page.github }}"><i class="bi bi-github"></i>Github</a></p>
