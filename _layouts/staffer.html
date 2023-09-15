@@ -29,7 +29,7 @@
 </div>
 <div class="modal fade staffer" id="{{ page.name | slugify }}-modal" tabindex="-1"
   aria-labelledby="{{ page.name | slugify }}-modal-label" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered modal-lg">
+  <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content">
       <div class="modal-header">
         <h1 class="modal-title fs-5" id="{{ page.name | slugify }}-modal-label">{{ page.name }}</h1>
@@ -38,7 +38,7 @@
       <div class="modal-body">
         <div class="container">
           <div class="row">
-            <div class="col-lg-4 align-self-center">
+            <div class="col-lg-4 text-center">
               <img class="staffer-image" src="{{ site.baseurl }}{{ page.subpath }}{{ page.photo }}" alt="" width="{{ page.width }}" height="{{ page.height }}">
             </div>
             <div class="col-lg-8">
