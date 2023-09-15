@@ -56,11 +56,11 @@
               {%- if page.university -%}
               <p><b>University:</b> {{ page.university }}</p>
               <p><b>Degree:</b> {{ page.degree }}</p>
-              {$- if page.degree != "BSc" -%}
+              <p><b>Entrance Year:</b> {{ page.ent_year }}</p>
+              {%- endif -%}
+              {$- if page.degree && page.degree != "BSc" -%}
               <p><b>Major:</b> {{ page.major }}</p>
               <p><b>Field:</b> {{ page.field }}</p>
-              {%- endif -%}
-              <p><b>Entrance Year:</b> {{ page.ent_year }}</p>
               {%- endif -%}
               {%- if page.github -%}
               <p><a href="{{ page.github }}"><i class="bi bi-github"></i>Github</a></p>
