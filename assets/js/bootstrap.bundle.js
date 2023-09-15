@@ -4303,7 +4303,7 @@
         }
         this._isShown = true;
         this._isTransitioning = true;
-        this._scrollBar.hide();
+        // this._scrollBar.hide();
         document.body.classList.add(CLASS_NAME_OPEN);
         // this._adjustDialog();
         this._backdrop.show(() => this._showElement(relatedTarget));
@@ -4414,7 +4414,7 @@
         this._backdrop.hide(() => {
           document.body.classList.remove(CLASS_NAME_OPEN);
           // this._resetAdjustments();
-          this._scrollBar.reset();
+          // this._scrollBar.reset();
           EventHandler.trigger(this._element, EVENT_HIDDEN$4);
         });
       }

@@ -8,6 +8,7 @@
     margin-right: $sp-4;
     width: 100px;
     object-fit: cover;
+    cursor: pointer;
   }
 
   .anchor-heading {
@@ -19,6 +20,7 @@
   .staffer-meta,
   p {
     margin: 0 0 $sp-1 0;
+    cursor: pointer;
   }
 
   .staffer-name {
