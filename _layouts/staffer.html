@@ -58,7 +58,7 @@
               <p><b>Degree:</b> {{ page.degree }}</p>
               <p><b>Entrance Year:</b> {{ page.ent_year }}</p>
               {%- endif -%}
-              {%- if page.degree && page.degree != "BSc" -%}
+              {%- if page.degree and page.degree != "BSc" -%}
               <p><b>Major:</b> {{ page.major }}</p>
               <p><b>Field:</b> {{ page.field }}</p>
               {%- endif -%}
