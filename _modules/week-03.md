@@ -1,10 +1,6 @@
 ---
-title: "Language models: Architectures and training"
+title: **Week 3**{: .label .label-purple } Language models: Architectures and training II
 ---
-
-Mehr 9
-: **Lecture 2**{: .label .label-purple } Transformers: Encoder model
-  : Dr. Asgari
 
 Mehr 16
 : **Lecture 3**{: .label .label-purple } Transformers: Decoder model

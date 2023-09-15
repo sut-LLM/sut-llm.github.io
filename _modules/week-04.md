@@ -1,5 +1,5 @@
 ---
-title: Adapting LLMs to new tasks or domains
+title: **Week 4**{: .label .label-purple } Adapting LLMs to new tasks or domains
 ---
 
 Mehr 23
