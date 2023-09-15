@@ -4330,7 +4330,7 @@
         super.dispose();
       }
       handleUpdate() {
-        this._adjustDialog();
+        // this._adjustDialog();
       }
   
       // Private
@@ -4386,7 +4386,7 @@
         });
         EventHandler.on(window, EVENT_RESIZE$1, () => {
           if (this._isShown && !this._isTransitioning) {
-            this._adjustDialog();
+            // this._adjustDialog();
           }
         });
         EventHandler.on(this._element, EVENT_MOUSEDOWN_DISMISS, event => {
