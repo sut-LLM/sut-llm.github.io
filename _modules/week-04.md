@@ -1,6 +1,6 @@
 ---
 week: 4
-title: Adapting LLMs to new tasks or domains
+title: Adapting LLMs to new tasks or domains I
 ---
 
 Mehr 23
@@ -10,19 +10,3 @@ Mehr 23
 Mehr 25
 : **Lecture 6**{: .label .label-purple } Parameter-efficient fine-tuning I
   : Dr. Rohban
-
-Mehr 30
-: **Lecture 7**{: .label .label-purple } Parameter-efficient fine-tuning I
-  : Dr. Rohban
-
-Aban 2
-: **Lecture 8**{: .label .label-purple } In-context learning understanding
-  : Dr. Soleymani
-
-Aban 7
-: **Lecture 9**{: .label .label-purple } Reliability in prompting LLM: Uncertainty, calibration, factuality
-  : Dr. Soleymani
-
-Aban 9
-: **Lecture 10**{: .label .label-purple } Multilingual LM
-  : Dr. Asgari
