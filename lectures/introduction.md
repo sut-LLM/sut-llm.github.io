@@ -1,11 +1,11 @@
 ---
 layout: page
 parent: Lectures
-title: Introduction to Large Language Models
+title: Introduction to foundation models
 nav_order: 1
 ---
 
-# Lecture 1: Introduction to Large Language Models
+# Lecture 1: Introduction to foundation models
 {:.no_toc}
 
 ## Table of contents
