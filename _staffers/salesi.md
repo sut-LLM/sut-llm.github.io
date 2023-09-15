@@ -7,5 +7,8 @@ linkedin: https://www.linkedin.com/in/alisalesi/
 github: https://github.com/AlisaLC/
 photo: salesi.jpg
 lab: MLL
+university: Sharif University of Technology
+degree: BSc
+ent_year: 1399
 ---
 
