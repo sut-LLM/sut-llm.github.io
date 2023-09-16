@@ -30,9 +30,6 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
-aux_links:
-  Ali Salesi:
-    - 'https://alisalc.github.io'
 footer_content:
 
 # Collections for website data
