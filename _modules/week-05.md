@@ -4,7 +4,7 @@ title: Adapting LLMs to new tasks or domains II
 ---
 
 Mehr 30
-: **Lecture 7**{: .label .label-purple } Parameter-efficient fine-tuning I
+: **Lecture 7**{: .label .label-purple } Parameter-efficient fine-tuning II
   : Dr. Rohban
 
 Aban 2

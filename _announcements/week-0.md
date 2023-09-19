@@ -4,5 +4,5 @@ week: 0
 date: 2023-09-25
 ---
 
-Welcome to LLM course. please join the [quera](http://quera.org) to submit the assignments.
+Welcome to LLM course. please join the [quera](https://quera.org/course/add_to_course/course/14845/) to submit the assignments.
 You can use [Google Colab](https://colab.research.google.com) to train your models.
