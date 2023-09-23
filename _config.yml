@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: LLM Course
-tagline: A website for LLM Course
-description: A simple website for Sharif LLM Course
+tagline: Sharif LLM
+description: Sharif University Large Language Models Course
 author: Ali Salesi
 baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://sut-llm.github.io' # the base hostname & protocol for your site, e.g. http://example.com
