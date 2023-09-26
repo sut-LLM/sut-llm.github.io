@@ -16,7 +16,7 @@
 title: LLM Course
 tagline: Sharif LLM
 description: Sharif University Large Language Models Course
-author: Ali Salesi
+author: Sharif LLM
 baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://sut-llm.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
