@@ -7,4 +7,4 @@ Mehr 4
 : **Lecture 1**{: .label .label-purple }Introduction to foundation models
   : Dr. Soleymani
 
-  **Slides**{: .label .label-purple } [slides](../assets/lectures/Introduction.pdf)
+  **Slides**{: .label .label-yellow } [slides](../assets/lectures/Introduction.pdf)
