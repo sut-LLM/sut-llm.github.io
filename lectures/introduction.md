@@ -1,7 +1,7 @@
 ---
 layout: page
-parent: Lectures
 title: Introduction to foundation models
+nav_exclude: true
 nav_order: 1
 ---
 
