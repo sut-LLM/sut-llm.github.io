@@ -3,7 +3,6 @@ layout: page
 title: Lectures
 nav_order: 3
 has_children: true
-has_toc: false
 ---
 
 # LLM lecture notes
