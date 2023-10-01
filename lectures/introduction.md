@@ -72,6 +72,3 @@ nav_order: 1
 ---
 
 **Next Lecture:** Deep Dive into Transformer Architecture
-```
-
-This Markdown lecture note provides an overview of foundational concepts in language models, including their history, the Transformer architecture, training techniques, scaling challenges, and practical applications, while also addressing potential ethical concerns.
