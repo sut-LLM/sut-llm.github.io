@@ -1,7 +1,7 @@
 ---
 layout: page
+parent: Lectures
 title: Introduction to foundation models
-nav_exclude: true
 nav_order: 1
 ---
 
@@ -16,64 +16,62 @@ nav_order: 1
 
 ---
 
-## Overview
+## Autoregressive Language Models
 
-- Welcome to the course on Large Language Models!
-- In this lecture, we will introduce the concept of large language models, their significance in the field of artificial intelligence, and their evolution over time.
+- **Autoregressive Language Models** are a class of language models that generate text by predicting the next word in a sequence based on previous words.
+- These models have played a pivotal role in natural language processing (NLP) and have evolved significantly over time.
 
-## What are Language Models?
+## History of Language Models
 
-- Language models are AI systems designed to understand, generate, and manipulate human language.
-- They are the backbone of many natural language processing (NLP) applications.
-- Examples of language models include chatbots, machine translation systems, and sentiment analysis tools.
+- We'll explore the historical progression of language models, including:
+  - **N-gram Models**: Early statistical models based on counting word sequences.
+  - **Neural Language Models (Neural LM)**: Introduction of neural networks to language modeling.
+  - **Recurrent Neural Networks (RNN)**: The use of RNNs for sequence modeling.
 
-## The Evolution of Language Models
+## Transformer Language Models
 
-- We'll discuss the historical development of language models.
-- From rule-based systems to statistical models, and now, large neural network-based models.
-- Highlight the significance of deep learning in revolutionizing NLP.
+- **Transformer Architecture**: An innovative architecture that revolutionized NLP.
+- Discussion of various Transformer-based language models, including:
+  - **Encoder-Only Models**: Models that encode information but don't decode it.
+  - **Encoder-Decoder Models**: Models used in translation and summarization tasks.
+  - **Decoder-Only Models**: Models designed for text generation.
 
-## Why Large Language Models?
+## Training Cost Function: Maximum Likelihood Estimation (MLE)
 
-- Explore the motivations behind building large language models.
-- The need for contextual understanding and better performance in NLP tasks.
-- Applications in real-world scenarios, such as virtual assistants and content generation.
+- **Maximum Likelihood Estimation (MLE)** is a common cost function used in training language models.
+- Explanation of MLE and its role in optimizing model parameters for text generation.
 
-## Key Components of Large Language Models
+## Scaling Foundation Models
 
-- Understand the essential components of large language models:
-  - **Architecture**: Introduction to the Transformer architecture.
-  - **Parameters**: Discuss the scale and size of large models.
-  - **Training Data**: Importance of large, diverse text corpora.
+- Addressing the challenges of scaling foundation models for better performance.
+- **Prompting**: Techniques for guiding model output by providing prompts.
+- **Emergence**: Understanding how complex language behaviors emerge from pretraining.
 
-## Pre-training and Fine-tuning
+## Pretraining and Parameter-Efficient Fine-Tuning
 
-- Explain the two main phases of building large language models:
-  - **Pre-training**: Learning from massive text data.
-  - **Fine-tuning**: Adapting the model for specific tasks.
+- **Pretraining**: Learning representations from a large corpus of text data.
+- **Parameter-Efficient Fine-Tuning**: Techniques to adapt pretrained models for specific tasks efficiently.
 
-## Challenges in Building and Using Large Models
+## Applications and Risks
 
-- Discuss the challenges faced in developing and deploying large language models:
-  - **Computational Resources**: Enormous computational power required.
-  - **Ethical Concerns**: Address issues related to bias and fairness.
-  - **Environmental Impact**: Highlight energy consumption concerns.
+- Explore real-world applications of foundation models across various domains, including:
+  - **Text Generation**: Creating human-like text and content.
+  - **Sentiment Analysis**: Understanding emotions and opinions in text.
+  - **Question Answering**: Answering questions based on textual information.
+- Discussion of ethical and societal risks associated with foundation models, including bias and misinformation.
 
 ## Conclusion
 
-- Summarize the key takeaways from this introductory lecture.
-- Emphasize the importance of large language models in modern AI and NLP.
+- Recap of the key concepts covered in this introductory lecture.
+- An overview of the exciting journey ahead in exploring foundation models and their applications.
 
 ## Additional Resources
 
-- Provide references and recommended readings for further exploration.
-- Suggest relevant research papers and online resources.
-
-## Homework Assignment
-
-- Assign a reading or a short exercise related to the lecture content.
-- Encourage students to think about the ethical considerations surrounding large language models.
+- Provide references and recommended readings for further exploration of foundation models and their history.
 
 ---
 
-**Next Lecture:** Deep Learning Fundamentals
+**Next Lecture:** Deep Dive into Transformer Architecture
+```
+
+This Markdown lecture note provides an overview of foundational concepts in language models, including their history, the Transformer architecture, training techniques, scaling challenges, and practical applications, while also addressing potential ethical concerns.
