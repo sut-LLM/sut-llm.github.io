@@ -4,9 +4,9 @@ title: Image-text and multimodal LMs I
 ---
 
 Azar 12
-: **Lecture 19**{: .label .label-purple } Image-text FMs
+: **Lecture 18**{: .label .label-purple } Knowledge in LLMs
   : Dr. Soleymani
 
 Azar 14
-: **Lecture 20**{: .label .label-purple } Generalized VLMs
+: **Lecture 19**{: .label .label-purple } Image-text FMs
   : Dr. Soleymani

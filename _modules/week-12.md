@@ -1,11 +1,12 @@
 ---
 week: 12
-title: Image-text and multimodal LMs II & Model zoo
+title: Image-text and multimodal LMs II
 ---
 
 Azar 19
-: **Lecture 21**{: .label .label-purple } Text-to-image FMs
+: **Lecture 20**{: .label .label-purple } Generalized VLMs
   : Dr. Soleymani
 
 Azar 21
-: **Lecture 22**{: .label .label-purple } Model zoo
+: **Lecture 21**{: .label .label-purple } Text-to-image FMs
+  : Dr. Soleymani

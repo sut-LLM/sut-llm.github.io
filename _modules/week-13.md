@@ -1,7 +1,7 @@
 ---
 week: 13
-title: "Applications of LLMs: Code, medical, financial, and ..."
+title: "Model zoo"
 ---
 
 Azar 28
-: **Lecture 23**{: .label .label-purple } Applications of LLMs I
+: **Lecture 22**{: .label .label-purple } Model zoo

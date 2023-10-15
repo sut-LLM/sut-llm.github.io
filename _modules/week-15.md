@@ -1,10 +1,10 @@
 ---
 week: 15
-title: "Bias and privacy in LLMs"
+title: "Bias and privacy in LLMs I"
 ---
 
 Dey 10
-: **Lecture 26**{: .label .label-purple } Bias, toxicity, and harm
+: **Lecture 25**{: .label .label-purple } Quantization and prunning of LLMs & Efficient inference
 
 Dey 12
-: **Lecture 27**{: .label .label-purple } Security & privacy
+: **Lecture 26**{: .label .label-purple } Bias, toxicity, and harm

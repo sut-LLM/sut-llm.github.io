@@ -4,7 +4,7 @@ title: "LLMs: Memory and computation efficient methods I"
 ---
 
 Dey 3
-: **Lecture 24**{: .label .label-purple } Efficient and decentralized training
+: **Lecture 23**{: .label .label-purple } Applications of LLMs
 
 Dey 5
-: **Lecture 25**{: .label .label-purple } Quantization and prunning of LLMs & Efficient inference
+: **Lecture 24**{: .label .label-purple } Efficient and decentralized training
