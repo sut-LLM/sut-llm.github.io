@@ -10,3 +10,6 @@ Aban 14
 Aban 16
 : **Lecture 11**{: .label .label-purple } Data preprocessing
   : Dr. Asgari
+
+Aban 19
+: **Assignment 1**{: .label .label-red } Deadline
