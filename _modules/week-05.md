@@ -8,7 +8,6 @@ Mehr 30
   : Dr. Rohban
 
   **Slides**{: .label .label-yellow } [PDF](../assets/lectures/Parameter-Efficient-Fine-Tuning-I.pdf)
-
   **Video**{: .label .label-blue } [OCW](https://ocw.sharif.edu/course/524/session/id/10630)
 
 Aban 2
@@ -16,7 +15,5 @@ Aban 2
   : Dr. Rohban
 
   **Slides**{: .label .label-yellow } [PDF](../assets/lectures/Parameter-Efficient-Fine-Tuning-II.pdf)
-
   **Video**{: .label .label-blue } [OCW](https://ocw.sharif.edu/course/524/session/id/10631)
-
   **Assignment 1**{: .label .label-red } [Quera](https://quera.org/course/14991/note/79518)

@@ -8,5 +8,4 @@ Mehr 4
   : Dr. Soleymani
 
   **Slides**{: .label .label-yellow } [PDF](../assets/lectures/Introduction.pdf)
-
   **Video**{: .label .label-blue } [OCW](https://ocw.sharif.edu/course/524/session/id/10625)

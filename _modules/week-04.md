@@ -8,7 +8,6 @@ Mehr 23
   : Dr. Asgari
 
   **Slides**{: .label .label-yellow } [PDF](../assets/lectures/Transformers.pdf)
-
   **Video**{: .label .label-blue } [OCW](https://ocw.sharif.edu/course/524/session/id/10628)
 
 Mehr 25
@@ -16,5 +15,4 @@ Mehr 25
   : Dr. Rohban
 
   **Slides**{: .label .label-yellow } [PDF](../assets/lectures/Prompting-for-Few-Shot-Learning.pdf)
-
   **Video**{: .label .label-blue } [OCW](https://ocw.sharif.edu/course/524/session/id/10629)
