@@ -1,4 +1,3 @@
-.main-content .assignment,
 .assignment {
   @extend %card;
 
@@ -13,7 +12,12 @@
     }
   }
 
-  .flex-row {
+  i {
+    font-weight: 800;
+    font-size: 72pt;
+  }
+
+  .row-container {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
