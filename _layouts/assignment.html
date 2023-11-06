@@ -7,17 +7,19 @@
   <div class="assignment">
     <div class="row-container">
         {%- if page.pdf -%}
-        <div class="pdf">
+        <div class="col-container">
             <a href="{{ page.pdf }}" target="_blank" rel="noopener noreferrer">
                 <i class="bi bi-filetype-pdf"></i>
             </a>
+            <span>PDF</span>
         </div>
         {%- endif -%}
         {%- if page.zip -%}
-        <div class="zip">
+        <div class="col-container">
             <a href="{{ page.zip }}" target="_blank" rel="noopener noreferrer">
                 <i class="bi bi-file-earmark-zip"></i>
             </a>
+            <span>Notebooks</span>
         </div>
         {%- endif -%}
     </div>
