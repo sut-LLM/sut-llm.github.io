@@ -1,8 +1,6 @@
 ---
 title: Assignment 1
 Topic: Parameter-efficient Fine-tuning
+pdf: ../assets/assignments/HW1.pdf
+zip: ../assets/assignments/HW1_Notebooks.zip
 ---
-
-[PDF](../assets/assignments/HW1.pdf){: .btn .btn-purple }
-
-[Notebooks](../assets/assignments/HW1_Notebooks.zip){: .btn .btn-blue }

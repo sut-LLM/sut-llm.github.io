@@ -4,6 +4,21 @@
     {%- endif -%}
     {{ page.topic }}
   </h2>
-  <div class="module">
-    {{ content }}
+  <div class="assignment">
+    <div class="flex-row">
+        {%- if page.pdf -%}
+        <div class="pdf">
+            <a href="{{ page.pdf }}" target="_blank" rel="noopener noreferrer">
+                <i class="bi bi-filetype-pdf"></i>
+            </a>
+        </div>
+        {%- endif -%}
+        {%- if page.zip -%}
+        <div class="zip">
+            <a href="{{ page.zip }}" target="_blank" rel="noopener noreferrer">
+                <i class="bi bi-file-earmark-zip"></i>
+            </a>
+        </div>
+        {%- endif -%}
+    </div>
   </div>

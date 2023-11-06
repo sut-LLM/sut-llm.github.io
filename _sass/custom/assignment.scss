@@ -1,0 +1,22 @@
+.main-content .assignment,
+.assignment {
+  @extend %card;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    &:first-child {
+      margin-top: $sp-4;
+    }
+  }
+
+  .flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 1em;
+  }
+}
