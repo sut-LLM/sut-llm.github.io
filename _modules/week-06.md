@@ -9,8 +9,12 @@ Aban 7
 
   **Slides**{: .label .label-yellow } [PDF](../assets/lectures/In-Context-Learning.pdf)
 
+  **Video**{: .label .label-blue } [OCW](https://ocw.sharif.edu/course/524/session/id/10656)
+
 Aban 9
 : **Lecture 9**{: .label .label-purple } Reliability in prompting LLM: Uncertainty, calibration, factuality
   : Dr. Soleymani
 
   **Slides**{: .label .label-yellow } [PDF](../assets/lectures/Calibration-of-Prompting.pdf)
+
+  **Video**{: .label .label-blue } [OCW](https://ocw.sharif.edu/course/524/session/id/10663)
