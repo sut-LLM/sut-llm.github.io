@@ -10,5 +10,7 @@ Aban 21
   **Slides**{: .label .label-yellow } [PDF](../assets/lectures/Effect-of-Dataset-on-LLM-Training.pdf)
 
 Aban 23
-: **Lecture 13**{: .label .label-purple } Evaluation: HELM framework
-  : Dr. Asgari
+: **Lecture 13**{: .label .label-purple } Training LMs with instructs
+  : Dr. Rohban
+
+  **Slides**{: .label .label-yellow } [PDF](../assets/lectures/2212.10560.pdf)
