@@ -12,3 +12,5 @@ Aban 28
 Aban 30
 : **Lecture 15**{: .label .label-purple } Evaluation: HELM framework
   : Dr. Asgari
+
+  **Slides**{: .label .label-yellow } [PDF](../assets/lectures/Evaluation-of-LLM.pdf)
