@@ -4,8 +4,8 @@ title: Further alignment and empowerment of LLMs II
 ---
 
 Azar 5
-: **Lecture 16**{: .label .label-purple } Retrieval-based LLMs
-  : Dr. Asgari
+: **Lecture 16**{: .label .label-purple } Model zoo
+  : Mr. Ghahroodi
 
   **Slides**{: .label .label-yellow } [PDF](../assets/lectures/Model-Zoo.pdf)
 
