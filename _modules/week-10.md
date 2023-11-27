@@ -7,6 +7,8 @@ Azar 5
 : **Lecture 16**{: .label .label-purple } Retrieval-based LLMs
   : Dr. Asgari
 
+  **Slides**{: .label .label-yellow } [PDF](../assets/lectures/Model-Zoo.pdf)
+
 Azar 7
 : **Lecture 17**{: .label .label-purple } Reasoning: Chain of thought prompting
   : Dr. Soleymani
