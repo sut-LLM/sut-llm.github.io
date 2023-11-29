@@ -12,3 +12,5 @@ Azar 5
 Azar 7
 : **Lecture 17**{: .label .label-purple } Reasoning: Chain of thought prompting
   : Dr. Soleymani
+
+  **Slides**{: .label .label-yellow } [PDF](../assets/lectures/Chain-of-Thought-Prompting.pdf)
