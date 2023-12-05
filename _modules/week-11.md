@@ -15,5 +15,7 @@ Azar 12
   **Assignment 3**{: .label .label-red } [Quera](https://quera.org/course/14991/note/81292)
 
 Azar 14
-: **Lecture 19**{: .label .label-purple } Image-text FMs
+: **Lecture 19**{: .label .label-purple } Vision Language Models (VLMs)
   : Dr. Soleymani
+
+  **Slides**{: .label .label-yellow } [PDF](../assets/lectures/VLMs.pdf)

@@ -7,4 +7,4 @@ Dey 3
 : **Lecture 23**{: .label .label-purple } Applications of LLMs
 
 Dey 5
-: **Lecture 24**{: .label .label-purple } Efficient and decentralized training
+: **Lecture 24**{: .label .label-purple } Efficient training and inference
