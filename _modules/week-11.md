@@ -4,7 +4,7 @@ title: Image-text and multimodal LMs I
 ---
 
 Azar 11
-: **Assignment 2** {: .label .label-red } Deadline
+: **Assignment 2**{: .label .label-red } Deadline
 
 Azar 12
 : **Lecture 18**{: .label .label-purple } Knowledge in LLMs
