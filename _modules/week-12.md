@@ -13,5 +13,7 @@ Azar 21
 : **Lecture 21**{: .label .label-purple } Multi-modal Agents
   : Dr. Soleymani
 
+  **Slides**{: .label .label-yellow } [PDF](../assets/lectures/LMMs-II.pdf)
+
 Azar 24
 : **Assignment 3**{: .label .label-red } Deadline
