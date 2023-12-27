@@ -1,10 +1,10 @@
 ---
 week: 15
-title: "Bias and privacy in LLMs I"
+title: Student Presentations
 ---
 
 Dey 10
-: **Lecture 25**{: .label .label-purple } Student Presentations
+: **Lecture 26**{: .label .label-purple } Student Presentations
 
 Dey 12
-: **Lecture 26**{: .label .label-purple } Student Presentations
+: **Lecture 27**{: .label .label-purple } Student Presentations

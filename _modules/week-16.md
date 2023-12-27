@@ -1,6 +1,7 @@
 ---
 week: 15
-title: "Bias and privacy in LLMs II"
+title: Exam
 ---
 
-: **Lecture 27**{: .label .label-purple } Student Presentations
+Dey 24
+: **Exam**{: .label .label-red } Final Exam
