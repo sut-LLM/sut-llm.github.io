@@ -12,6 +12,8 @@ Azar 12
 
   **Slides**{: .label .label-yellow } [PDF](../assets/lectures/Language-Models-and-Knowledge.pdf)
 
+  **Video**{: .label .label-blue } [OCW](https://ocw.sharif.edu/course/524/session/id/10698)
+
   **Assignment 3**{: .label .label-red } [Quera](https://quera.org/course/14991/note/81292)
 
 Azar 14
@@ -19,3 +21,5 @@ Azar 14
   : Dr. Soleymani
 
   **Slides**{: .label .label-yellow } [PDF](../assets/lectures/VLMs.pdf)
+
+  **Video**{: .label .label-blue } [OCW](https://ocw.sharif.edu/course/524/session/id/10699)
